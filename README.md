@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on two full stack projects (Tech Blog, Barter System).
-- 🌱 I’m currently learning Materialize CSS framework.
+- 🔭 I’m currently working on a full stack project (Tech Blog) and writing a gist on Regex.
+- 🌱 I’m currently learning Regex and Monogo DB.
 - 👯 I’m looking to collaborate on web site/app developement.
 - ⚡ Fun fact: I wanted to be a Paleontologist (specifically Dinosaur Scientist) when I was in grade 3.
 - 📫 Reach me via v.opatha@gmail.com.
