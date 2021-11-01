@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a full stack project which is a Budget Tracker based on Index DB.
+- 🔭 I’m currently working on a React project (Personal Portfolio).
 - 🌱 I’m currently learning PWA and React.
 - 👯 I’m looking to collaborate on web site/app developement.
 - ⚡ Fun fact: I wanted to be a Paleontologist (specifically Dinosaur Scientist) when I was in grade 3.
