@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a React project (Personal Portfolio).
+- 🔭 I’m currently working on a Book Search Engine.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on web site/app developement.
 - ⚡ Fun fact: I wanted to be a Paleontologist (specifically a Dinosaur Scientist) when I was in grade 3.
