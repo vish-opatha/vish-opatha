@@ -2,7 +2,7 @@
 - 🌱 I'm a software engineer(full stack web developer) and my stack is javascript, typescript, RESTful API, Node.js, Express.js and PostgreSQL. I have experience in MERN stack too. 
 - 👯 I would like to collaborate on web site/app developement projects.
 - ⚡ Fun fact: I wanted to be a Paleontologist (specifically a Dinosaur Scientist) when I was in grade 3.
-- 📫 Reach me via v.opatha@gmail.com.
+- 📫 Reach me via v.opatha@hotmail.com.
 
 
 <!--
